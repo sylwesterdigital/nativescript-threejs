@@ -19,7 +19,7 @@
     "nativescript-browser-polyfill": "^1.0.0-alpha4",
     "nativescript-canvas-plugin": "^0.7.0",
     "nativescript-three": "^1.0.0-alpha0",
-    "three": "^0.117.1",
+    "three": "^0.125.0",
     "tns-core-modules": "~6.5.0"
   },
   "devDependencies": {
